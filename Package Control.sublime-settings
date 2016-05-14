@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ApacheConf.tmLanguage",
+		"Codebug",
+		"ColorPicker",
+		"Drupal",
+		"Emmet",
+		"Generic Config",
+		"Git Config",
+		"JSHint",
+		"JSONLint",
+		"Markdown Preview",
+		"Material Theme",
+		"Materialize-Appbar",
+		"Meteor Snippets",
+		"npm",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets",
+		"SublimePythonIDE"
+	]
+}

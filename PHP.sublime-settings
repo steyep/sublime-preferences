@@ -1,0 +1,10 @@
+{
+	"extensions":
+	[
+		"php",
+    "install",
+    "profile",
+		"module",
+		"inc"
+	]
+}
