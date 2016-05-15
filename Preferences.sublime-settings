@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/stephen (SublimePythonIDE).tmTheme",
+	"color_scheme": "Packages/User/theme/Material-Theme-Darker.tmTheme",
 	"file_exclude_patterns":
 	[
 		"*.png"
