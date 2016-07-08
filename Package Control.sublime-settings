@@ -17,15 +17,14 @@
 		"JSONLint",
 		"Markdown Preview",
 		"Material Theme",
-		"Materialize-Appbar",
 		"Meteor Snippets",
 		"npm",
 		"Package Control",
 		"PackageResourceViewer",
+		"Project Specific Syntax Settings",
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
-		"Stylus-Snippets",
-		"SublimePythonIDE"
+		"Stylus-Snippets"
 	]
 }

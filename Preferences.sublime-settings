@@ -5,13 +5,13 @@
 	"color_scheme": "Packages/User/theme/Material-Theme-Darker.tmTheme",
 	"file_exclude_patterns":
 	[
-		"*.png"
+		"*.png",
+		".DS_Store"
 	],
 	"font_face": "Menlo",
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"SublimePythonIDE",
 		"Vintage"
 	],
 	"indent_guide_options":

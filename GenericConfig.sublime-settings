@@ -1,6 +1,7 @@
 {
 	"extensions":
 	[
-		"cnf"
+		"cnf",
+		".npmrc"
 	]
 }
