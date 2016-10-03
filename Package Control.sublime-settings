@@ -9,6 +9,7 @@
 		"ApacheConf.tmLanguage",
 		"Codebug",
 		"ColorPicker",
+		"DocBlockr",
 		"Drupal",
 		"Emmet",
 		"Generic Config",
@@ -25,6 +26,9 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Stylus",
-		"Stylus-Snippets"
+		"Stylus-Snippets",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs"
 	]
 }

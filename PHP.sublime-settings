@@ -6,5 +6,9 @@
 		"module",
 		"php",
 		"profile"
+	],
+	"rulers":
+	[
+		80
 	]
 }
