@@ -3,6 +3,7 @@
 	"auto_complete": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/theme/Material-Theme-Darker.tmTheme",
+	"copy_with_empty_selection": false,
 	"file_exclude_patterns":
 	[
 		"*.png",
