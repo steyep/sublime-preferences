@@ -32,5 +32,6 @@
 	"tab_size": 2,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"word_wrap": false
 }
