@@ -1,5 +1,6 @@
 {
 	"bootstrapped": true,
+	"debug": false,
 	"in_process_packages":
 	[
 	],
@@ -7,7 +8,7 @@
 	[
 		"A File Icon",
 		"Alignment",
-		"ApacheConf.tmLanguage",
+		"ApacheConf",
 		"Codebug",
 		"ColorPicker",
 		"DocBlockr",
@@ -16,6 +17,7 @@
 		"Generic Config",
 		"Git Config",
 		"GitGutter",
+		"HTML Boilerplate",
 		"jQuery",
 		"JSHint",
 		"JSONLint",
@@ -34,6 +36,7 @@
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
+		"TerminalView",
 		"TrailingSpaces"
 	]
 }
