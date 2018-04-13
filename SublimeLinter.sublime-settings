@@ -12,7 +12,7 @@
             "disable": false,
             "args": [],
             "excludes": [],
-            "standard": "~/.composer/vendor/drupal/coder/coder_sniffer/Drupal",
+            "standard": "~/.composer/vendor/drupal/coder/coder_sniffer/Drupal,~/.composer/vendor/drupal/coder/coder_sniffer/DrupalPractice",
         }
     },
 
