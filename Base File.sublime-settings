@@ -1,0 +1,8 @@
+{
+  "jsdocs_align_tags": false,
+  "jsdocs_param_description": false,
+  "jsdocs_spacer_between_sections": true,
+  "jsdocs_short_primitives": true,
+  "jsdocs_per_section_indent": false,
+  "jsdocs_indentation_spaces_same_para": 2,
+}
